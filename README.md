@@ -45,19 +45,6 @@
               </a>
             </div>
           </div>
-        </td><td width="50%">
-          <h3 align="center">Coming Soon</h3>
-          <div align="center">
-            <a href="#p" target="_blank" rel="noreferrer"><img src="#" alt="# website preview" /></a>
-            <div>
-              <a href="#">
-                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=3b82f6" alt="# Visit Site Button">
-              </a>
-              <a href="#">
-                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="# Github Repository Button">
-              </a>
-            </div>
-          </div>
         </td></tr>
     </tr>
   </table></div>
