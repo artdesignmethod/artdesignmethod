@@ -6,11 +6,57 @@
           <h3 align="center">Dance Crew Academy Website</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/a6bebfa5-29e5-4927-b7db-296813f766f3" alt="Dance Crew Academy website preview" /></a>
+             <div>
+              <a href="https://d-crew-academy.netlify.app">
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=f43f5e" alt="Dance Crew Academy Visit Site Button">
+              </a>
+              <a href="https://github.com/webdesignmethod/dance-crew-academy-website">
+                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="Dance Crew Academy Github Repository Button">
+              </a>
+            </div>
           </div>
         </td><td width="50%">
           <h3 align="center">Market To Launch Website</h3>
           <div align="center">
             <a href="https://market-to-launch.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/b3b915b0-72a0-47ac-a34d-4a8d35f9fafc" alt="Market To Launch website preview" /></a>
+            <div>
+              <a href="https://market-to-launch.netlify.app">
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=3b82f6" alt="Market To Launch Visit Site Button">
+              </a>
+              <a href="https://github.com/webdesignmethod/market-to-launch-website">
+                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="Market To Launch Github Repository Button">
+              </a>
+            </div>
+          </div>
+        </td></tr>
+    </tr>
+    <tr>
+      <tr><td width="50%">
+          <h3 align="center">Artesania Cafe Website</h3>
+          <div align="center">
+            <a href="https://artesania-cafe.netlify.app" target="_blank" rel="noreferrer">
+              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/65bf8888-be0e-4692-9b47-c2de75f65ac6" alt="Artesania Cafe website preview" /></a>
+             <div>
+              <a href="https://artesania-cafe.netlify.app">
+                <img src="https://img.shields.io/badge/Visit-yellow?style=for-the-badge&color=d97706" alt="Dance Crew Academy Visit Site Button">
+              </a>
+              <a href="https://github.com/webdesignmethod/artesania-cafe-website">
+                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="Artesania Cafe Github Repository Button">
+              </a>
+            </div>
+          </div>
+        </td><td width="50%">
+          <h3 align="center">Coming Soon</h3>
+          <div align="center">
+            <a href="#p" target="_blank" rel="noreferrer"><img src="#" alt="# website preview" /></a>
+            <div>
+              <a href="#">
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=3b82f6" alt="# Visit Site Button">
+              </a>
+              <a href="#">
+                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="# Github Repository Button">
+              </a>
+            </div>
           </div>
         </td></tr>
     </tr>
