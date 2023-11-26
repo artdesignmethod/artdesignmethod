@@ -1,4 +1,4 @@
-<div align="center" background-color="black"> 
+<div align="center"> 
   <h1>My Work</h2>
   <table>
     <tr>
