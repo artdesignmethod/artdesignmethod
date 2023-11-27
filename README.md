@@ -6,7 +6,7 @@
           <h3 align="center">Dance Crew Academy Website</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/a6bebfa5-29e5-4927-b7db-296813f766f3" alt="Dance Crew Academy website preview" />
+              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/68fcad62-0d8f-418e-8882-2b417161555f" alt="Dance Crew Academy website preview" />
             </a>
             <div>
               <a href="https://d-crew-academy.netlify.app">
@@ -21,7 +21,7 @@
           <h3 align="center">Market To Launch Website</h3>
           <div align="center">
             <a href="https://market-to-launch.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/b3b915b0-72a0-47ac-a34d-4a8d35f9fafc" alt="Market To Launch website preview" />
+              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/ca6452a1-fdb7-4c57-8c0a-985fba85cff4" alt="Market To Launch website preview" />
             </a>
             <div>
               <a href="https://market-to-launch.netlify.app">
@@ -39,7 +39,7 @@
           <h3 align="center">Artesania Cafe Website</h3>
           <div align="center">
             <a href="https://artesania-cafe.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/65bf8888-be0e-4692-9b47-c2de75f65ac6" alt="Artesania Cafe website preview" />
+              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/ed8a9e7d-57ac-4a5e-8aea-fadeb20782ae" alt="Artesania Cafe website preview" />
             </a>
              <div>
               <a href="https://artesania-cafe.netlify.app">
