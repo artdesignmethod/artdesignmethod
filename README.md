@@ -33,25 +33,7 @@
             </div>
           </div>
         </td></tr>
-    </tr>
-    <tr>
-      <tr><td width="50%">
-          <h3 align="center">Artesania Cafe Website</h3>
-          <div align="center">
-            <a href="https://artesania-cafe.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/ed8a9e7d-57ac-4a5e-8aea-fadeb20782ae" alt="Artesania Cafe website preview" />
-            </a>
-             <div>
-              <a href="https://artesania-cafe.netlify.app">
-                <img src="https://img.shields.io/badge/Visit-yellow?style=for-the-badge&color=d97706" alt="Dance Crew Academy Visit Site Button">
-              </a>
-              <a href="https://github.com/webdesignmethod/artesania-cafe-website">
-                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="Artesania Cafe Github Repository Button">
-              </a>
-            </div>
-          </div>
-        </td></tr>
-    </tr>
+    </tr>  
   </table></div>
 
 <br/>
