@@ -11,10 +11,7 @@
             <div>
               <a href="https://d-crew-academy.netlify.app">
                 <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=f43f5e" alt="Dance Crew Academy Visit Site Button">
-              </a>
-              <a href="https://github.com/webdesignmethod/dance-crew-academy-website">
-                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="Dance Crew Academy Github Repository Button">
-              </a>
+              </a>             
             </div>
           </div>
         </td><td width="50%">
@@ -26,10 +23,7 @@
             <div>
               <a href="https://market-to-launch.netlify.app">
                 <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=3b82f6" alt="Market To Launch Visit Site Button">
-              </a>
-              <a href="https://github.com/webdesignmethod/market-to-launch-website">
-                <img src="https://img.shields.io/badge/Source-grey?style=for-the-badge&color=e2e8f0" alt="Market To Launch Github Repository Button">
-              </a>
+              </a>              
             </div>
           </div>
         </td></tr>
