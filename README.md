@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/47eee375-dabc-46d9-bdc9-2d73ac6141ae" alt="header image" style="width: 100%">
+</div>
+
 <div align="center"> 
   <h1>My Work</h2>
   <table>
