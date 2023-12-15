@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/ccd8535f-bc63-4a2e-9a79-2e4db9acd83f" alt="header image" style="width: 100%">
+  <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/21641c9a-6ddc-48ee-93f1-e0ed496105a9" alt="header image" style="width: 100%">
 </div>
 
 <div align="center"> 
