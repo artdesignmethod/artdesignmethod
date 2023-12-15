@@ -1,5 +1,4 @@
-<div align="center"> 
-  <h1>My Work</h2>
+<div align="center">  
   <table>
     <tr>
       <tr><td width="50%">
