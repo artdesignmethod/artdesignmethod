@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/89125e8c-5477-4456-afc4-80459f17e2fc" alt="banner" style="width: 100%" />
-</div>  
+  <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/a312d374-931f-47c0-b8c8-2e86a3cb9904" alt="banner" style="width: 100%" />
+</div>
+
 <div align="center">  
   <table>
     <tr>
