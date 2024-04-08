@@ -8,7 +8,7 @@
               <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/68fcad62-0d8f-418e-8882-2b417161555f" alt="Dance Crew Academy website preview" />
             </a>
             <div>
-              <a href="https://d-crew-academy.netlify.app">
+              <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=f43f5e" alt="Dance Crew Academy Visit Site Button">
               </a>             
             </div>
@@ -20,7 +20,7 @@
               <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/ca6452a1-fdb7-4c57-8c0a-985fba85cff4" alt="Market To Launch website preview" />
             </a>
             <div>
-              <a href="https://market-to-launch.netlify.app">
+              <a href="https://market-to-launch.netlify.app" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=3b82f6" alt="Market To Launch Visit Site Button">
               </a>              
             </div>
