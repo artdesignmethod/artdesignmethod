@@ -5,7 +5,7 @@
           <h3 align="center">Dance Crew Academy Website</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/68fcad62-0d8f-418e-8882-2b417161555f" alt="Dance Crew Academy website preview" />
+              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/83467174-bfa9-4f21-804f-be4f719b4266" alt="Dance Crew Academy website preview" />
             </a>
             <div>
               <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
