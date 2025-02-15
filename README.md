@@ -5,11 +5,11 @@
           <h3 align="center">Dance Crew Academy Website</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/webdesignmethod/webdesignmethod/assets/24868045/0beeca23-9501-4d71-a47f-f72a0bebdc85" alt="Dance Crew Academy website preview" />
+              <img src="https://github.com/user-attachments/assets/a34c2fdb-a254-4f84-9e25-e3e40336b72f" alt="Dance Crew Academy website preview" />
             </a>
             <div>
               <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=f43f5e" alt="Dance Crew Academy Visit Site Button">
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=ec4899" alt="Dance Crew Academy Visit Site Button">
               </a>             
             </div>
           </div>
