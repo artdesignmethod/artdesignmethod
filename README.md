@@ -2,27 +2,27 @@
   <table>
     <tr>
       <tr><td width="50%">
+          <h3 align="center">Manager (MERN App)</h3>
+          <div align="center">
+            <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
+              <img src="https://github.com/user-attachments/assets/cf0a0287-863a-49f2-8e35-cb5184b39f2b" alt="Manager application preview" />
+            </a>
+            <div>
+              <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=584ff9" alt="Manager application button link">
+              </a>             
+            </div>
+          </div>
+        </td><td width="50%">
           <h3 align="center">Dance Crew Academy Website</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/a34c2fdb-a254-4f84-9e25-e3e40336b72f" alt="Dance Crew Academy website preview" />
+              <img src="https://github.com/user-attachments/assets/ad20519c-b91c-40c4-ba02-6dbbde8dd7bd" alt="Dance Crew Academy website preview" />
             </a>
             <div>
               <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=ec4899" alt="Dance Crew Academy Visit Site Button">
               </a>             
-            </div>
-          </div>
-        </td><td width="50%">
-          <h3 align="center">Market Launch Website</h3>
-          <div align="center">
-            <a href="https://market-launch.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/3a7833fd-d328-4805-99c7-a30e032b13c6" alt="Market To Launch website preview" />
-            </a>
-            <div>
-              <a href="https://market-launch.netlify.app" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=f59e0b" alt="Market To Launch Visit Site Button">
-              </a>              
             </div>
           </div>
         </td></tr>
