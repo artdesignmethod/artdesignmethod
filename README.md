@@ -14,7 +14,7 @@
             </div>
           </div>
         </td><td width="50%">
-          <h3 align="center">Dance Academy (React)</h3>
+          <h3 align="center">Dance Website (React)</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
               <img src="https://github.com/user-attachments/assets/ad20519c-b91c-40c4-ba02-6dbbde8dd7bd" alt="Dance Crew Academy website preview" />
