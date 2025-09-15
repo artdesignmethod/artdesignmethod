@@ -5,7 +5,7 @@
           <h3 align="center">Manager (MERN App)</h3>
           <div align="center">
             <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/cf0a0287-863a-49f2-8e35-cb5184b39f2b" alt="Manager application preview" />
+              <img src="https://github.com/user-attachments/assets/eaf06407-fff9-42cb-bdf0-706d1c6bf1ca" alt="Manager application preview" />
             </a>
             <div>
               <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
