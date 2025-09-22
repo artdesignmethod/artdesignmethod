@@ -5,24 +5,24 @@
           <h3 align="center">Producer (MERN App)</h3>
           <div align="center">
             <a href="https://producer-manager-app.onrender.com/" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/c8bb375e-ea84-4bca-88bd-e5ea80003454" alt="Manager application preview" />
+              <img src="https://github.com/user-attachments/assets/c8bb375e-ea84-4bca-88bd-e5ea80003454" alt="Producer application preview" />
             </a>
             <div>
               <a href="https://producer-manager-app.onrender.com/" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=584ff9" alt="Manager application button link">
-              </a>             
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=584ff9" alt="Producer application button link">
+              </a>
             </div>
           </div>
         </td><td width="50%">
           <h3 align="center">Dance Academy (React)</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/ad20519c-b91c-40c4-ba02-6dbbde8dd7bd" alt="Dance Crew Academy website preview" />
+              <img src="https://github.com/user-attachments/assets/6098f455-43eb-4c06-ba12-df39e3c968cd" alt="Dance Crew Academy website preview" />
             </a>
             <div>
               <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=ec4899" alt="Dance Crew Academy Visit Site Button">
-              </a>             
+              </a>
             </div>
           </div>
         </td></tr>
