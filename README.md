@@ -2,14 +2,14 @@
   <table>
     <tr>
       <tr><td width="50%">
-          <h3 align="center">Producer (MERN App)</h3>
+          <h3 align="center">Manager (MERN App)</h3>
           <div align="center">
-            <a href="https://producer-manager-app.onrender.com/" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/c8bb375e-ea84-4bca-88bd-e5ea80003454" alt="Producer application preview" />
+            <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
+              <img src="https://github.com/user-attachments/assets/eaf06407-fff9-42cb-bdf0-706d1c6bf1ca" alt="Manager application preview" />           
             </a>
             <div>
-              <a href="https://producer-manager-app.onrender.com/" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=584ff9" alt="Producer application button link">
+              <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge&color=584ff9" alt="Project manager application button link">
               </a>
             </div>
           </div>
