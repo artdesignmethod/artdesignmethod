@@ -5,7 +5,7 @@
           <h3 align="center">Manager (MERN App)</h3>
           <div align="center">
             <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/e1a925ff-eb6b-4abd-a96d-34713b02d0b3" alt="Manager application preview" />           
+              <img src="https://github.com/user-attachments/assets/6495479d-199a-43c9-917a-dc7596262edd" alt="Manager application preview" />           
             </a>
             <div>
               <a href="https://project-manager-application.onrender.com/" target="_blank" rel="noreferrer">
@@ -17,7 +17,7 @@
           <h3 align="center">Dance Academy (React)</h3>
           <div align="center">
             <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://github.com/user-attachments/assets/6098f455-43eb-4c06-ba12-df39e3c968cd" alt="Dance Crew Academy website preview" />
+              <img src="https://github.com/user-attachments/assets/0f2bf6ac-78a9-49da-a579-c3206ca236f3" alt="Dance Crew Academy website preview" />
             </a>
             <div>
               <a href="https://d-crew-academy.netlify.app" target="_blank" rel="noreferrer">
@@ -27,7 +27,7 @@
           </div>
         </td></tr>
     </tr>  
-  </table></div> 
+  </table></div>
 
 <br/>
 
